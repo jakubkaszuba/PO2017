@@ -8,3 +8,4 @@ Jagoda Wierzbicka 212577 https://github.com/anetalubanska/Projekt-PO
 Szymon Wołodkowicz 208525
 Michal Kosik 212449
 Daniel Demedziuk 204136
+Kamil Hanuszewicz 204072 https://github.com/kamil056/ProjektProgramowanieObiektowe
