@@ -1,5 +1,5 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
-Jakub Rychlik 212550
+Jakub Rychlik 212550 https://github.com/jakubrychlik/ProjektPO
 Mateusz Krawczyk 212525
 Paweł Otto 212533
 Jakub Witkowski 212455
