@@ -1,7 +1,7 @@
 Wpisujcie poniżej imię, nazwisk i nr albumu.
 Jakub Rychlik 212550 https://github.com/jakubrychlik/ProjektPO
 Mateusz Krawczyk 212525 https://github.com/matixoni22/Multi_Thread-ClientServer
-Paweł Otto 212533
+Paweł Otto 212533 https://github.com/PawelO1/Projekt_robot
 Jakub Witkowski 212455
 Łukasz Struś 204027 https://github.com/piotrwyciechowski/proj
 Jagoda Wierzbicka 212577 https://github.com/anetalubanska/Projekt-PO
