@@ -7,5 +7,5 @@ Jakub Witkowski 212455
 Jagoda Wierzbicka 212577 https://github.com/anetalubanska/Projekt-PO
 Szymon Wołodkowicz 208525
 Michal Kosik 212449
-Daniel Demedziuk 204136
+Daniel Demedziuk 204136 https://github.com/danieldemedziuk/obiektowka
 Kamil Hanuszewicz 204072 https://github.com/kamil056/ProjektProgramowanieObiektowe
