@@ -8,3 +8,4 @@ Jakub Kaszuba 221097
 Piotr Rabiej 200231
 Michał Stuleblak 212566
 Maciej Strzyżewski 204025 https://github.com/StrzyzewskiMac/DomowySystemAlarmowy
+Konrad Dziagacz 186465 https://github.com/Gast10/POProjekt
